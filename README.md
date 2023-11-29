@@ -1,3 +1,3 @@
-# lab10
+# dannykearns.me
 TEC lab
 dannykearns.github.io
